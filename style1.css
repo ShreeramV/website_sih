@@ -1,0 +1,35 @@
+#top{
+    color:black;
+    background-color: grey;
+    text-align: center;
+}
+#subtop{
+    color:grey;
+    display:inline-block;
+    align-items: center;
+}
+.form-label1{
+    height:30px;
+    width:29px;
+    font-size: 20px;
+    border-radius:20px;
+    background-color: lime;
+    padding-left: 25px;
+}
+.form-label{
+    height:30px;
+    width:29px;
+    font-size: 20px;
+    border-radius:20px;
+    background-color: lime;
+    padding-left: 25px;
+}
+
+#mid{
+    color:black;
+    border-radius: 5px;
+    height:200px;
+    width:100%;
+    background-color: #9df69b;
+    text-align: center;
+}
